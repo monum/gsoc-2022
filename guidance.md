@@ -1,8 +1,8 @@
-We are seeking mission-oriented technologists to help us address urban issues in Boston.
-
 # Guidelines for Applications and Project Proposals
 
-Please submit your proposal as a PDF by the application deadline: April 13 18:00 UTC.
+## We are seeking mission-oriented technologists to help us address urban issues in Boston.
+
+Please submit your proposal as a PDF by the application deadline: April 19 18:00 UTC.
 
 ## A Quick Note on Working with Us
 
