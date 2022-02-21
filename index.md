@@ -2,7 +2,7 @@
 
 Below, you will find a list of ideas we have for a Google Summer of Code student for the summer of 2022. 
 
-**You can find guidance for applications and your project proposals [here](https://monum.github.io/gsoc-ideas-2022/guidance)**.
+**You can find guidance for applications and your project proposals [here](https://monum.github.io/gsoc-2022/guidance)**.
 
 Thank you for your consideration!
 
