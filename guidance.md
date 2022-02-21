@@ -2,15 +2,17 @@
 
 ## We are seeking mission-oriented technologists to help us address urban issues in Boston.
 
-Please submit your proposal as a PDF by the application deadline: April 19 18:00 UTC.
+Formed in 2010, the Mayor's Office of New Urban Mechanics serves as the City of Boston's innovation incubator, building partnerships between internal agencies and outside entrepreneurs to pilot projects that address resident needs. We design and implement experiments and prototypes that address a range of urban issues. From community green spaces to the future of mobility to Accessory Dwelling Units, our approach to innovation is human-centered, nimble and responsive to the changing needs of our growing City.
 
-## A Quick Note on Working with Us
+### A Quick Note on Working with Us
 
 As an office in local government, we are open 9 - 5 PM EST. Selected students will be expected to attend frequent check-in meetings during those hours. They are also expected to attend weekly meetings with our fellowship cohort during Friday afternoons EST.
 
-**Below, you will find a a template for proposals:**
+## Templates for Proposals
 
-Section 1: Information about You
+Below, you will find a a template for proposals:
+
+### Section 1: Information about You
 	
   - Name
   - Contact Information
@@ -18,7 +20,7 @@ Section 1: Information about You
   - List of Skills/Experience Level
   - Link to GitHub/Equivalent Site with details on your open source code contributions
 
-## Section 2: Your Civic Commitment
+### Section 2: Your Civic Commitment
 
 Please answer these questions:
 
@@ -26,7 +28,7 @@ Please answer these questions:
   
   - How do you think civic technology could be used to improve life in your community?
 
-## Section 3: Your Project Skills
+### Section 3: Your Project Skills
 
 Take a look at our ideas list is [here](https://monum.github.io/gsoc-ideas-2022/) and answer the following questions.
 	
