@@ -1,6 +1,10 @@
 ## Ideas List for Google Summer of Code from the Mayor's Office of New Urban Mechanics (City of Boston)
 
-Below, you will find a list of ideas we have for a Google Summer of Code student for the summer of 2022. Thank you for your consideration!
+Below, you will find a list of ideas we have for a Google Summer of Code student for the summer of 2022. 
+
+**You can find guidance for applications and your project proposals [here](https://monum.github.io/gsoc-ideas-2022/guidance)**.
+
+Thank you for your consideration!
 
 ### 1. Improved Translation for the City's 311 App with Machine Learning
 
