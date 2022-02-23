@@ -50,4 +50,4 @@ We give this project a **medium** level of difficulty.
 
 This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks like D3, data analysis tools, and JavaScript/HTML/CSS.
 
-The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
