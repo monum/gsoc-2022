@@ -70,6 +70,6 @@ Finally, accessibility is also a major concern. The tool should follow W3C acces
 
 We give this project a **medium** level of difficulty. The project may take **175 hours** or **350 hours** depending on the number of features built.
 
-This project will require intermediate experience with GIS and web mapping platforms such as Mapbox, advanced experience with JavaScript/HTML/CSS, and intermediate experience with building serverless apps. In particular, contributors should be comfortable interacting with RESTful APIS and using cloud-based data stores (such as SimpleDB).
+This project will require intermediate experience with GIS and web mapping platforms, advanced experience with JavaScript/HTML/CSS, and intermediate experience with building serverless apps. In particular, contributors should be comfortable interacting with RESTful APIS and using cloud-based data stores (such as SimpleDB).
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
