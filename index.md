@@ -52,12 +52,12 @@ This project will require intermediate experience with GIS and web mapping platf
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
 
-### 4. Building a Tool to Create Interactive Maps for Crowdsourced Ideas
+### 4. Building a Tool for Collecting Crowdsourced Ideas on Interactive Maps
 
-As a research and development office in city government, we support several community engagement efforts that seek to collect and share feedback from residents on various City initiatives. Many of these engagements efforts are citywide and revolve around geospatial questions, such as:
+As a research and development office in city government, we support several community engagement efforts that seek to collect and share feedback from residents on various City initiatives. Many of these engagement efforts are citywide and revolve around geospatial questions, such as:
 
 - Where should the City install new benches?
-- Where is your favorite public art?
+- Where is your favorite public art? Where would you like to see a new piece of public art?
 - Where would you like to see a new community compost bin?
 
 Based on this need, we would like to build a tool that lets users deploy interactive maps that crowdsource ideas from residents. When a resident starts using the tool, they will be greeted with a prompt (e.g., "Where should the City install new benches?") and a map-based interface that lets them drag markers to a desired location. Once the marker is placed correctly, the resident can provide more details about the location with a pop-up form. 
