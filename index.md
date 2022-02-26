@@ -16,7 +16,7 @@ In 2010, our office launched the City of Boston's [311 app](https://311.boston.g
 
 The ideal outcome would be having an API endpoint that would accept text from a 311 request and return translated text that could be easily understood by our City operations teams. We would also like to be able to benchmark the progress of this translation service against more general translation services.
 
-We give this project a **medium to hard** level of difficulty.
+We give this project a **medium to hard** level of difficulty and can be completed in **350 hours**.
 
 This project will require intermediate experience with machine learning, building and training models with text classification, natural language processing, and Python. It will also require intermediate experience with building web service APIs with with a web framework like Flask, Django etc.
 
@@ -32,7 +32,7 @@ We would also like to explore ways to find more insights from the aerial imagery
 
 The ideal outcome would be **1)** the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and **2)** the ability to the Parks Department to generate a list of statistics on tree counts and tree healthto ensure that it continues to plants trees in an equitable manner across the city.
 
-We give this project a **medium** level of difficulty.
+We give this project a **medium** level of difficulty and can be completed in **175 hours**.
 
 This project will require intermediate experience with Python, machine learning (in particular TensorFlow and training models with imagery), interacting with RESTful APIs, and limited experience with JavaScript, HTML, and CSS.
 
@@ -46,7 +46,7 @@ Since the data from the kits will be available via an API, we would like to buil
 
 The student will be using [FabLab Barcelona's Python SDK](https://github.com/fablabbcn/smartcitizen-data) to interact with the sensors. We expect to make incremental contributions to the SDK as we think about calculating new metrics, adjusting sample frequency, and calibrating the sensors.
 
-We give this project a **medium** level of difficulty.
+We give this project a **medium** level of difficulty and can be completed in **175 hours**.
 
 This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks like D3, data analysis tools, and JavaScript/HTML/CSS.
 
