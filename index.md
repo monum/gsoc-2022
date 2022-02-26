@@ -52,7 +52,7 @@ This project will require intermediate experience with GIS and web mapping platf
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
 
-### 4. Interactive Maps for Crowdsourced Ideas
+### 4. Building a Tool to Create Interactive Maps for Crowdsourced Ideas
 
 As a research and development office in city government, we support several community engagement efforts that seek to collect and share feedback from residents on various City initiatives. Many of these engagements efforts are citywide and revolve around geospatial questions, such as:
 
