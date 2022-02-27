@@ -73,3 +73,17 @@ We give this project a **medium** level of difficulty. The project may take **17
 This project will require intermediate experience with GIS and web mapping platforms, advanced experience with JavaScript/HTML/CSS, and intermediate experience with building serverless apps. In particular, contributors should be comfortable interacting with RESTful APIS and using cloud-based data stores (such as SimpleDB).
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
+
+### 5. Dashboard for Equity in City Infrastructure
+
+At the Mayor's Office of New Urban Mechanics, we are focused on helping City departments create innovative services that are accessible, equitable, and delightful. We would like to build a tool that helps City departments keep track of infrastructure investments, as they strive to make them more equitable.
+
+Throughout Boston, City government repairs broken sidewalks, installs benches, builds new libraries, and creates new parks. These examples only represent a slice of the enormous investment the City makes in core infrastructure that serves residents. A key question remains: **how equitable are these investments?** For example, are sidewalks repaired at the same rate and the same scale across neighborhoods? Does one neighborhood have more benches per sq.ft or per capita than another neighborhood? Do parks in one neighborhood have more or less amenities than parks on the other side of the city?
+
+We would like to build a web-based dashboard that keeps track of these investments and helps City departments reach their equity goals. The dashboard will use frequently updated open data to help users analyze and visualize trends in infrastructure investments. The dashboard will include a map-based view of several types of infrastructure investments and a variety of charts for users to spot trends over time. 
+
+We give this project a **medium** level of difficulty. The project can be completed in **350 hours**.
+
+This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks (e.g., D3), data analysis tools (e.g., R), and JavaScript/HTML/CSS.
+
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
