@@ -22,7 +22,35 @@ This project will require intermediate experience with machine learning, buildin
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
 
-###  2. Web Interface for Urban Tree Canopy Detection Using Satellite and Aerial Imagery
+### 2. Data Visualization for "Lunchbox of Sensors", Boston's New At-Home Sensor Network
+
+Over the past year, our office has been conducting research and planning on an at-home sensor network called the *Lunchbox of Sensors*. The idea is that city residents could check-out a unified kit of sensors from their local library and use them at home. The internet-connected kits will include sensors for temperature, barometric pressure, relative humidity, temperature, noise, carbon dioxide (a decent measure of ventilation), and a variety of common household air pollutants (VOCs, carbon monoxide, and nitrogen dioxide). We are currently working with a experienced fabrication studio to build a collection of the prototypes (FabLab Barcelona's Smart Citizen Kits). 
+
+Since the data from the kits will be available via an API, we would like to build a comprehensive data visualization about the sensor network for the public. At its most basic level, the visualization will display the real-time data collected from the network of sensors on custom maps of the sensor network and animated, interactive charts. Since the sensor data will focus on indoor air environments, the visualization should also incorporate data on the outdoor environment from real-time sources. The visualization should also provide sociological context, such as providing information on social vulnerability on the maps (via the [CDC's Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html), for example).
+
+The contributor will be using [FabLab Barcelona's Python SDK](https://github.com/fablabbcn/smartcitizen-data) to interact with the sensors. We expect to make incremental contributions to the SDK as we think about calculating new metrics, adjusting sample frequency, and calibrating the sensors.
+
+We give this project a **medium** level of difficulty. The project can be completed in **175 hours**.
+
+This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks like D3, data analysis tools, and JavaScript/HTML/CSS.
+
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
+
+### 3. Dashboard for Equity in City Infrastructure
+
+At the Mayor's Office of New Urban Mechanics, we are focused on helping City departments create innovative services that are accessible, equitable, and delightful. We would like to build a tool that helps City departments keep track of infrastructure investments, as they strive to make them more equitable.
+
+Throughout Boston, City government repairs broken sidewalks, installs benches, builds new libraries, and creates new parks. These examples only represent a slice of the enormous investment the City makes in core infrastructure that serves residents. A key question remains: **how equitable are these investments?** For example, are sidewalks repaired at the same rate and the same scale across neighborhoods? Does one neighborhood have more benches per sq.ft or per capita than another neighborhood? Do parks in one neighborhood have more or less amenities than parks on the other side of the city?
+
+We would like to build a web-based dashboard that keeps track of these investments and helps City departments reach their equity goals. The dashboard will use frequently updated open data to help users analyze and visualize trends in infrastructure investments. The dashboard will include a map-based view of several types of infrastructure investments and a variety of charts for users to spot trends over time. 
+
+We give this project a **medium** level of difficulty. The project can be completed in **175 hours**.
+
+This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks (e.g., D3), data analysis tools (e.g., R), and JavaScript/HTML/CSS.
+
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
+
+### 4. Web Interface for Urban Tree Canopy Detection Using Satellite and Aerial Imagery
 
 The City of Boston's Parks Department maintains a comprehensive data set on trees in Boston. However, it's a manual and laborious process to get the data (such as  conducting site visits for tree counts) on a regular basis. Last summer, a student built a Boston-specific model to identify trees from aerial imagery; it was based on [Deep Forest](https://github.com/weecology/DeepForest), a machine learning library for tree crown detection. 
 
@@ -38,21 +66,7 @@ This project will require intermediate experience with Python, machine learning 
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
 
-### 3. Data Visualization for "Lunchbox of Sensors", Boston's New At-Home Sensor Network
-
-Over the past year, our office has been conducting research and planning on an at-home sensor network called the *Lunchbox of Sensors*. The idea is that city residents could check-out a unified kit of sensors from their local library and use them at home. The internet-connected kits will include sensors for temperature, barometric pressure, relative humidity, temperature, noise, carbon dioxide (a decent measure of ventilation), and a variety of common household air pollutants (VOCs, carbon monoxide, and nitrogen dioxide). We are currently working with a experienced fabrication studio to build a collection of the prototypes (FabLab Barcelona's Smart Citizen Kits). 
-
-Since the data from the kits will be available via an API, we would like to build a comprehensive data visualization about the sensor network for the public. At its most basic level, the visualization will display the real-time data collected from the network of sensors on custom maps of the sensor network and animated, interactive charts. Since the sensor data will focus on indoor air environments, the visualization should also incorporate data on the outdoor environment from real-time sources. The visualization should also provide sociological context, such as providing information on social vulnerability on the maps (via the [CDC's Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html), for example).
-
-The contributor will be using [FabLab Barcelona's Python SDK](https://github.com/fablabbcn/smartcitizen-data) to interact with the sensors. We expect to make incremental contributions to the SDK as we think about calculating new metrics, adjusting sample frequency, and calibrating the sensors.
-
-We give this project a **medium** level of difficulty. The project can be completed in **175 hours**.
-
-This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks like D3, data analysis tools, and JavaScript/HTML/CSS.
-
-The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
-
-### 4. Building a Tool for Collecting Crowdsourced Ideas on Interactive Maps
+### 5. Building a Tool for Collecting Crowdsourced Ideas on Interactive Maps
 
 As a research and development office in city government, we support several community engagement efforts that seek to collect and share feedback from residents on various City initiatives. Many of these engagement efforts are citywide and revolve around geospatial questions, such as:
 
@@ -71,19 +85,5 @@ Finally, accessibility is also a major concern. The tool should follow W3C acces
 We give this project a **medium** level of difficulty. The project may take **175 hours** or **350 hours** depending on the number of features built.
 
 This project will require intermediate experience with GIS and web mapping platforms, advanced experience with JavaScript/HTML/CSS, and intermediate experience with building serverless apps. In particular, contributors should be comfortable interacting with RESTful APIS and using cloud-based data stores (such as SimpleDB).
-
-The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
-
-### 5. Dashboard for Equity in City Infrastructure
-
-At the Mayor's Office of New Urban Mechanics, we are focused on helping City departments create innovative services that are accessible, equitable, and delightful. We would like to build a tool that helps City departments keep track of infrastructure investments, as they strive to make them more equitable.
-
-Throughout Boston, City government repairs broken sidewalks, installs benches, builds new libraries, and creates new parks. These examples only represent a slice of the enormous investment the City makes in core infrastructure that serves residents. A key question remains: **how equitable are these investments?** For example, are sidewalks repaired at the same rate and the same scale across neighborhoods? Does one neighborhood have more benches per sq.ft or per capita than another neighborhood? Do parks in one neighborhood have more or less amenities than parks on the other side of the city?
-
-We would like to build a web-based dashboard that keeps track of these investments and helps City departments reach their equity goals. The dashboard will use frequently updated open data to help users analyze and visualize trends in infrastructure investments. The dashboard will include a map-based view of several types of infrastructure investments and a variety of charts for users to spot trends over time. 
-
-We give this project a **medium** level of difficulty. The project can be completed in **350 hours**.
-
-This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks (e.g., D3), data analysis tools (e.g., R), and JavaScript/HTML/CSS.
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011 and the City of Boston in 2021.
